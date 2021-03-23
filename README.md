@@ -12,7 +12,7 @@ online example: https://cesare12.github.io/react-tree/
 
 | name      | description             | type    | default |
 | --------- | ----------------------- | ------- | ------- |
-false| checkable | whether support checked | boolean | false    |
+| checkable | whether support checked | boolean | false    |
 
 ## Installation
 
